@@ -1,0 +1,12 @@
+----------------------------------------
+        STUDENT PROFILE SYSTEM          
+----------------------------------------
+Name:            Yash Kumar
+Roll No:         2501660026
+Course:          BCA
+University:      KR Mangalam
+City:            Gurugram
+Age:             18
+Hobby:           Reading
+----------------------------------------
+Welcome to Python Programming !
